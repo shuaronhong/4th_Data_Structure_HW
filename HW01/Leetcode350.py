@@ -1,3 +1,5 @@
+# Runtime: 44 ms, faster than 94.71% of Python3 online submissions
+# Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions
 class Solution:
     def intersect(self, nums1, nums2):
         """
